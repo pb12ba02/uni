@@ -1,5 +1,5 @@
 total_cols = 10
-total_rows = 9
+total_rows = 10
 traversable = 0
 obstacle = 1
 grid=[{0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
